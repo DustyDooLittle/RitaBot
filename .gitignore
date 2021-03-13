@@ -6,3 +6,4 @@ sqlite3.dll
 sqlite3.def
 *.db
 .env
+README_Dusty.md
